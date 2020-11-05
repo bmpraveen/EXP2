@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Data Req Catalog">1e27d829db1c2010806ebd5139961981</cat_item>
+        <cat_item display_value="VM Request">1e27d829db1c2010806ebd5139961981</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -36,11 +36,11 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>type</name>
-        <order/>
+        <name>cpu</name>
+        <order>10</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>Request Type</question_text>
+        <question_text>CPU</question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
@@ -59,17 +59,17 @@
         <sys_created_by>praveen</sys_created_by>
         <sys_created_on>2020-11-05 11:30:52</sys_created_on>
         <sys_id>59e29521dbdc2010806ebd51399619c8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Request Type</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>cpu</sys_name>
         <sys_package display_value="EXP2" source="x_501118_exp2">ec0318e1db1c2010806ebd5139961976</sys_package>
         <sys_policy/>
         <sys_scope display_value="EXP2">ec0318e1db1c2010806ebd5139961976</sys_scope>
         <sys_update_name>item_option_new_59e29521dbdc2010806ebd51399619c8</sys_update_name>
         <sys_updated_by>praveen</sys_updated_by>
-        <sys_updated_on>2020-11-05 11:30:52</sys_updated_on>
+        <sys_updated_on>2020-11-05 11:46:29</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>6</type>
+        <type>5</type>
         <ui_page/>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>

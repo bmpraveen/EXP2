@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>200</order>
+        <question display_value="OS">7a2699e1dbdc2010806ebd5139961929</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>praveen</sys_created_by>
+        <sys_created_on>2020-11-05 11:44:43</sys_created_on>
+        <sys_id>574691e1dbdc2010806ebd51399619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RHEL</sys_name>
+        <sys_package display_value="EXP2" source="x_501118_exp2">ec0318e1db1c2010806ebd5139961976</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EXP2">ec0318e1db1c2010806ebd5139961976</sys_scope>
+        <sys_update_name>question_choice_574691e1dbdc2010806ebd51399619fe</sys_update_name>
+        <sys_updated_by>praveen</sys_updated_by>
+        <sys_updated_on>2020-11-05 11:44:43</sys_updated_on>
+        <text>RHEL</text>
+        <value/>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=574691e1dbdc2010806ebd51399619fe"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>574691e1dbdc2010806ebd51399619fe</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>praveen</sys_created_by>
+        <sys_created_on>2020-11-05 11:44:43</sys_created_on>
+        <sys_id>4c6691e1dbdc2010806ebd51399619e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>praveen</sys_updated_by>
+        <sys_updated_on>2020-11-05 11:44:43</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>574691e1dbdc2010806ebd51399619fe</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>praveen</sys_created_by>
+        <sys_created_on>2020-11-05 11:44:43</sys_created_on>
+        <sys_id>046691e1dbdc2010806ebd51399619e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>praveen</sys_updated_by>
+        <sys_updated_on>2020-11-05 11:44:43</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
