@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Data Req Catalog">1e27d829db1c2010806ebd5139961981</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>praveen</sys_created_by>
+        <sys_created_on>2020-11-05 07:09:17</sys_created_on>
+        <sys_id>19575c29db1c2010806ebd5139961997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Data Req Catalog</sys_name>
+        <sys_package display_value="EXP2" source="x_501118_exp2">ec0318e1db1c2010806ebd5139961976</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EXP2">ec0318e1db1c2010806ebd5139961976</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_19575c29db1c2010806ebd5139961997</sys_update_name>
+        <sys_updated_by>praveen</sys_updated_by>
+        <sys_updated_on>2020-11-05 07:09:17</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
